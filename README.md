@@ -11,3 +11,5 @@ My website https://facerecognitionreactfront.herokuapp.com/
 3- Clone the Face Recognition Front end 
 
 4- Use npm start in the front end project.
+
+### `If you liked please leave the star!`
