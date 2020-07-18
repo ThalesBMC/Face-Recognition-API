@@ -1,4 +1,4 @@
-My Node api using an Api of Face Recognition.
+My Node api of a sign in and sign up and using an Api of Face Recognition that selects the face in the image
 
 Just put your Clarifai API Key in the controllers/image.js and put the database,user and the password in server.js
 
