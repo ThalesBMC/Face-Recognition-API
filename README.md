@@ -12,4 +12,4 @@ My website https://facerecognitionreactfront.herokuapp.com/
 
 4- Use npm start in the front end project.
 
-### `If you liked please leave the star!`
+### `If you liked, please leave the star!`
